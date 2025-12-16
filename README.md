@@ -109,4 +109,4 @@ t1.abajo(1)
 
 ## 📝 Conclusión
 
-El ejercicio **mini_turtle_oo** demuestra las ventajas de la Programación Orientada a Objetos, como la encapsulación del estado y la creación de múltiples instancias independientes. Este enfoque mejora la organización del código, su reutilización y escalabilidad, facilitando el mantenimiento y la comprensión del prog
+El ejercicio **mini_turtle_oo** demuestra las ventajas de la Programación Orientada a Objetos, como la encapsulación del estado y la creación de múltiples instancias independientes. Este enfoque mejora la organización del código, su reutilización y escalabilidad, facilitando el mantenimiento y la comprensión del programa.
